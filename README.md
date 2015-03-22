@@ -1,6 +1,6 @@
 =========================================
-##Getting and Cleaning Data Course Project
-by Yu Xin
+#Getting and Cleaning Data Course Project
+##by Yu Xin
 =========================================
 
 The main purpose of this project is to create a tidy data set with the average of each variable for each activity and each subject. 
