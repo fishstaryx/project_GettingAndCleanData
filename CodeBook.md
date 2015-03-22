@@ -29,6 +29,7 @@ The output of the program is a tidy data set. There are 68 columns with the firs
 * tBodyAcc-mean()-Y_average
 ...
 * fBodyBodyGyroJerkMag-std()_average
+
 There are 180 rows stand for 30 subjects with six diferent activities respectively.
  
 
